@@ -1,4 +1,4 @@
-# Adding Ultrawide support for most guides.
+# Adding Ultrawide support for most mod lists.
 
 ## Mods that require patches:
 
