@@ -34,3 +34,4 @@ It is necessary to manually adjust the offsets in the preset txt file. There is 
 # On some personal preferences:
 - The ExtendedUI patch should override the Experience one, making that one fully overridden, so you don't need to install it. You can use only one, either Experience or ExtendedUI.
 - SkyUI AIO Survival (SAS) replaces the inventory menus and has support for Frostfall, Survival Mode or no survival mod. It replaces the Frostfall patch completely, incase you are using Frostfall. Personally I love that mod, it shows a lot more info than the normal menu, the best of which is total weight in my opinion.
+
