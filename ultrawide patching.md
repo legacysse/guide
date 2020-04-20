@@ -29,7 +29,7 @@
 
 - [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463)
 
-It is necessary to manually adjust the offsets in the preset txt file. There is an ultrawide patch available, but it won't help as you still need to adjust the offsets, it just becomes harder.
+It is necessary to manually adjust the x offsets in the preset txt file, so get your calculator ready. There is an ultrawide patch available, but it won't help as you still need to adjust the offsets, it just becomes harder.
 
 # On some personal preferences:
 - The ExtendedUI patch should override the Experience one, making that one fully overridden, so you don't need to install it. You can use only one, either Experience or ExtendedUI.
